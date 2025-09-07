@@ -2,7 +2,7 @@
 
  <h2 align="center"> 👋 Hello from Nihar Ranjan Mohapatra </h2> 
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%23351AF7&size=30&multiline=true&width=1000&lines=HTML,CSS,JavaScript, Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%23351AF7&size=30&multiline=true&width=1000&lines=HTML+CSS+JavaScript+Python)](https://git.io/typing-svg)
  
  **About Me:**
 
