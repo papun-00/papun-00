@@ -6,7 +6,7 @@
  
  **About Me:**
 
-An infrastructure enthusiast with 7 and half years of experience in various infrastructure tools, technologies & Design. Passionate about building highly available microservice systems for critical workloads. Establishing the trusted connection between various clusters and the Network. Designing the self-service models end-to-end CICD pipeline. Delivery of end-to-end DevOps projects based on Agile models. 
+An infrastructure enthusiast with 4 and half years of experience in various infrastructure tools, technologies & Design. Passionate about building highly available microservice systems for critical workloads. Establishing the trusted connection between various clusters and the Network. Designing the self-service models end-to-end CICD pipeline. Delivery of end-to-end DevOps projects based on Agile models. 
 
  <h2 align="center"> Let's solve the real-world problems together !!! </h2>
  
