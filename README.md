@@ -1,77 +1,109 @@
-<h1 align="center">🚀 Nihar Ranjan Mohapatra</h1>
-<h3 align="center">⚡ DevOps Engineer | Cloud | Microservices | Automation</h3>
+<!-- 🔥 HERO BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00F7FF&height=200&section=header&text=Nihar%20Ranjan%20Mohapatra&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<h3 align="center">💻 Full Stack Developer | Cloud | Microservices | Automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=DevOps+Engineer;Cloud+%26+Infrastructure+Specialist;CI%2FCD+Pipeline+Builder;Kubernetes+%7C+Docker+%7C+Automation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&weight=600&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Frontend+%2B+Backend+Specialist;Cloud+Engineer;Building+Scalable+Systems" />
 </p>
 
 ---
 
+<!-- 🧠 ABOUT -->
 ## 🌟 About Me
 
-💡 Passionate DevOps Engineer with experience in building scalable and highly available systems  
-⚙️ Specialized in **CI/CD pipelines, Kubernetes, and Cloud Infrastructure**  
-🔗 Love connecting systems, automating workflows, and solving real-world problems  
-🚀 Always learning new technologies & improving system efficiency  
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+💡 Passionate Full Stack Developer  
+⚙️ Skilled in Frontend + Backend + Cloud  
+🚀 Love building scalable systems  
+🔗 Focus on performance + clean UI  
 
 ---
 
-## 🧠 What My Profile Says About Me
-
-✔️ I build **real-world scalable systems**  
-✔️ I focus on **automation & efficiency**  
-✔️ I work with **modern DevOps tools**  
-✔️ I believe in **clean architecture & performance**
-
----
-
+<!-- ⚡ TECH STACK -->
 ## ⚡ Tech Stack
 
-### 🚀 DevOps & Cloud
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0db7ed?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Istio](https://img.shields.io/badge/Istio-ff6f00?style=for-the-badge&logo=istio&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<p align="center">
 
-### 💻 Programming & Tools
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,mongodb,docker,kubernetes,github,aws&theme=dark" />
 
-### 📊 Monitoring & CI/CD
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+</p>
 
 ---
 
-## 🚀 Featured Projects (ADD YOUR REAL PROJECTS HERE)
+<!-- 🚀 PROJECTS -->
+## 🚀 Featured Projects
 
-🔹 **Kubernetes Deployment Automation**  
-→ Automated deployment pipelines using GitHub Actions + Helm  
-
-🔹 **CI/CD Pipeline System**  
-→ Built end-to-end CI/CD with Docker + Kubernetes  
-
-🔹 **Monitoring Dashboard**  
-→ Real-time metrics using Prometheus & Grafana  
+🔹 **Full Stack Web App** → Auth + Dashboard + API  
+🔹 **E-Commerce Platform** → Payment + Admin Panel  
+🔹 **Developer Dashboard** → GitHub Analytics UI  
 
 ---
 
+<!-- 📊 BIG ANALYTICS -->
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=papun-00&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=papun-00&theme=tokyonight&hide_border=true" width="48%" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=papun-00&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF&count_private=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=papun-00&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=papun-00&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papun-00&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF" />
+
 </p>
 
 ---
 
+<!-- 📈 ADVANCED CONTRIBUTION GRAPH -->
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=papun-00&theme=react-dark&bg_color=0d1117&hide_border=true&line=00F7FF&color=00F7FF" width="100%"/>
+</p>
+
+---
+
+<!-- 🐍 SNAKE ANIMATION -->
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/papun-00/papun-00/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<!-- 📊 EXTRA METRICS -->
+## ⚡ GitHub Metrics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=papun-00&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=papun-00&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=papun-00&theme=tokyonight"/>
+</p>
+
+---
+
+<!-- 👀 VISITOR COUNTER -->
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=papun-00&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+</p>
+
+---
+
+<!-- 🏆 TROPHIES -->
 ## 🏆 Achievements
 
 <p align="center">
@@ -80,36 +112,30 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=papun-00&theme=tokyo-night" />
-</p>
-
----
-
+<!-- 🌐 CONNECT -->
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nihar-ranjan-mohapatra-4942a4345">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="mailto:nmohapatra079@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
   <a href="https://github.com/papun-00">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 </p>
 
 ---
 
+<!-- 🎯 GOALS -->
 ## 🎯 Future Goals
 
-🚀 Master Kubernetes at scale  
-☁️ Build cloud-native production systems  
-🤖 Automate everything possible  
+🚀 Become Top Full Stack Engineer  
+☁️ Build large-scale cloud systems  
+🤖 Integrate AI into production apps  
 
 ---
 
-<h3 align="center">🔥 "Build. Automate. Scale." 🔥</h3>
+<h3 align="center">🔥 Code. Build. Scale. 🔥</h3>
